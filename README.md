@@ -9,3 +9,4 @@
 - However in NF2 disorder patients mutations in the gene cause the protein produced to be shortened or dysfunctional in other aspects which is thus unable to inhibit these pathways and leads to tumors
 
 ### Our idea
+- We decided to explore if there were any connections between cancers that exhibit Merlin dysfunction and NF2 mutations, and the somatic mutations causing neurofibromatosis type 2 in the patient, and if the connections could be used for developing new treatments
